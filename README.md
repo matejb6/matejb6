@@ -2,10 +2,10 @@
 
 
 ## About me
-I am Matej and I am a Software developer. My main occupation is web development using various technologies such as JavaScript, TypeScript, Angular, etc.
+I am Matej, Software developer. My main occupation is web development using various technologies such as JavaScript, TypeScript, Angular, etc.
 
 ## About my GitHub account
-My GitHub account contains some private and public repos mainly used for learning and skill demo purposes.
+My GitHub account contains some private and public repos mainly used for sharing code, learning and dev skills demonstration.
 
 <!--
 **matejb6/matejb6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

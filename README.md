@@ -1,11 +1,13 @@
 # Hi there 👋
 
-
 ## About me
-I am Matej, Software developer. My main occupation is web development using various technologies such as JavaScript, TypeScript, Angular, etc.
+I am Matej, Software developer and Master of Electrical Engineering. My main occupation is web development using various technologies such as JavaScript, TypeScript, Angular, etc. I am a fan of these pieces of software and I like open source code. I am taking extra care in writing clean code.
 
 ## About my GitHub account
-My GitHub account contains some private and public repos mainly used for sharing code, learning and dev skills demonstration.
+This is my coding playground, a few public and a bit more private repos (for now). I use it to sharpen my skills in free time, to share ideas, to learn and play with various technologies and to try out any idea that comes to my mind...
+
+## Working on...
+I am currently working on ng-custom-setup app to be an example app for Angular app setup. Also, I am adding content to my GitHub Pages profile page. Some private repos for now are in works, but they will be public soon, mainly about Typescript testing and some Angular coding practices.
 
 <!--
 **matejb6/matejb6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

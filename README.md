@@ -1,7 +1,7 @@
 # Hello 👋
 
 ## About me
-My name is Matej. I am a Software developer and Master of Electrical Engineering. My main occupation is web development using various technologies such as JavaScript, TypeScript, Angular, etc. I am a fan of these pieces of software. I am curious to check all latest advancements and developments in this field so my GitHub profile is my go to place for learning and researching.
+My name is Matej. I am a Software developer and Master of Electrical Engineering. My main occupation is web development using various technologies such as JavaScript, TypeScript, Angular, etc. I am curious and meticulous and I put extra effort in writing clean code.
 
 ## About my GitHub account
 This is my coding playground. I use it to sharpen my skills, to share ideas, to learn and play with various technologies and to try out anything dev wise that comes to my mind... Here you can find a few public repos I am working on. There are private repos too, which are not ready for public eyes yet or just my personal stuff.

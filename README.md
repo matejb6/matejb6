@@ -1,13 +1,13 @@
 # Hello 👋
 
 ## About me
-My name is Matej. I am a Software developer and Master of Electrical Engineering. My main occupation is web development using various technologies such as JavaScript, TypeScript, Angular, etc. I am curious and meticulous and I put extra effort in writing clean code.
+My name is Matej. I am a Software developer and a Master of Electrical Engineering. My main occupation is web development using various technologies such as JavaScript, TypeScript, HTML, CSS, popular web dev frameworks, etc. I am curious and meticulous and I put extra effort in writing clean code.
 
 ## About my GitHub account
-This is my coding playground. I use it to sharpen my skills, to share ideas, to learn and play with various technologies and to try out anything dev wise that comes to my mind... Here you can find a few public repos I am working on. There are private repos too, which are not ready for public eyes yet or just my personal stuff.
+This is my coding playground. I use it to sharpen my skills, to share ideas, to learn and play with various technologies and to try out whatever comes to my mind... Here you can find a few public repos I am working on. I would be happy if others can find something interesting and useful. There are private repos too, buy they are not ready for public eyes yet.
 
 ## Working on...
-I am currently working on a few repos for learning purposes. Also, I am adding content to my GitHub Pages profile page.
+I am currently working on a few repos for learning purposes.
 
 <!--
 **matejb6/matejb6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
